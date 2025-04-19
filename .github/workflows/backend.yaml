@@ -69,9 +69,9 @@ jobs:
       - name: Code Coverage Report
         run: |
           find src/backend/*/*.Tests/TestResults/*/ -name 'coverage.cobertura.xml' -execdir head -n 5 {} \; -execdir echo -e '\n\n' \;
-      - uses: codecov/codecov-action@v5
-        with:
-          fail_ci_if_error: true
-          directory: ./src/backend/
-          token: ${{ secrets.CODECOV_TOKEN }}
-          verbose: true 
+#      - uses: codecov/codecov-action@v5
+#        with:
+#          fail_ci_if_error: true
+#          directory: ./src/backend/
+#          token: ${{ secrets.CODECOV_TOKEN }}
+#          verbose: true 

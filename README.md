@@ -1,7 +1,6 @@
 # Expression Calculator
-[![backend](https://github.com/ikjob/expr-calc/actions/workflows/backend.yaml/badge.svg)](https://github.com/ikjob/expr-calc/actions/workflows/backend.yaml)
-[![frontend](https://github.com/ikjob/expr-calc/actions/workflows/frontend.yaml/badge.svg)](https://github.com/ikjob/expr-calc/actions/workflows/frontend.yaml)
-[![codecov](https://codecov.io/github/ikjob/expr-calc/graph/badge.svg?token=6UM2YH20NZ)](https://codecov.io/github/ikjob/expr-calc)
+[![backend](https://github.com/ikopylov/expr-calc/actions/workflows/backend.yaml/badge.svg)](https://github.com/ikopylov/expr-calc/actions/workflows/backend.yaml)
+[![frontend](https://github.com/ikopylov/expr-calc/actions/workflows/frontend.yaml/badge.svg)](https://github.com/ikopylov/expr-calc/actions/workflows/frontend.yaml)
 
 Evaluates expressions in background tasks
 
